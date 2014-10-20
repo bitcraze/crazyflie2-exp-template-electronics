@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-16 BZR 4752)-product date = fre 11 apr 2014 23:59:34
+
+BeginCmp
+TimeStamp = /533E81FD;
+Reference = P1;
+ValeurCmp = CF_EXP_LEFT;
+IdModule  = connectors:BF090-10-X-B2;
+EndCmp
+
+BeginCmp
+TimeStamp = /533E838C;
+Reference = P2;
+ValeurCmp = CF_EXP_RIGHT;
+IdModule  = connectors:BF090-10-X-B2;
+EndCmp
+
+EndListe
