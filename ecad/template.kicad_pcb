@@ -71,8 +71,7 @@
     (pad_to_mask_clearance 0)
     (pad_to_paste_clearance -0.03048)
     (pad_to_paste_clearance_ratio -0.02)
-    (aux_axis_origin 0 0)
-    (grid_origin 139.001 97.00092)
+    (aux_axis_origin 139.001 97.00092)
     (visible_elements FFFCFFFF)
     (pcbplotparams
       (layerselection 284983303)
