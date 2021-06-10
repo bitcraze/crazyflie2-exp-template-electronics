@@ -1,3 +1,8 @@
+---
+title: Home
+page_id: home
+---
+
 ## Crazyflie 2.0 expansion board template
 
 This repo contains a Crazyflie 2.0 expansion board template in the form
