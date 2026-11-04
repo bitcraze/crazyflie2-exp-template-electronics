@@ -3,4 +3,6 @@
 For more information go to [documentation page](docs/index.md)
 
 ## Contribute
-Go to the [contribute page](https://www.bitcraze.io/contribute/) on our website to learn more.
+Before you open a pull request, please read our [General guidelines for code contributions](https://www.bitcraze.io/development/contribute/general-guidelines/).
+
+For other ways to contribute, see the [contribute page](https://www.bitcraze.io/development/contribute/).
